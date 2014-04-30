@@ -20,10 +20,7 @@
 
 * The new skill would be learning how to wireframe a web page.  It really makes you pay attention to not just how a web page should look but also whether it's addressing the enduser's needs. 
 
-<<<<<<< HEAD
 * I enjoyed doing the wireframing because it helped organize my thoughts and remind me what issues I'll be addressing with the web page.
-=======
-* I enjoyed doing the wireframing because it helped organize my thoughts.
->>>>>>> FETCH_HEAD
+
 
 * I I liked all the reading material here except for the one from wikipedia.  I thought it was too long and delved to much into the history of design thinking. As a enduser of these web pages, I preferred the practical concise articles that get to the meat of the concept.  
