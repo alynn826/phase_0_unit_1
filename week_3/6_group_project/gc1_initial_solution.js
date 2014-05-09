@@ -28,7 +28,7 @@ var mean = function(x,y,z){
 	};
 
 };
-
+/* or much more simplified*/
 var mean = function(x,y,z){
 	return x+y+z/3
 })
