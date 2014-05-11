@@ -1,45 +1,45 @@
 ## Release 2: Basic Git Commands
-Define the following commands and describe how they work/what they do.  
+Define the following commands and describe how they work/what they do. 
 
 
 #### add
-<!-- Your defnition here -->
+the add command stages the files that are ready to be committed and tell Git to start tracking changes made to the file. 
 
 #### branch
-<!-- Your defnition here -->
+makes a copy of the master that you can make separate commits to.
 
 #### checkout
-<!-- Your defnition here -->
+changes the file back to how it was at the last commit. Use to switch between branches.
 
 #### clone
-<!-- Your defnition here -->
+makes a copy of an existing git repository.
 
 #### commit
-<!-- Your defnition here -->
+takes a snapshot of the change you've made to the file and store it to the repository. 
 
 #### fetch
-<!-- Your defnition here -->
+Similar to git pull except it won't do any merge. It creates a local copy of the remote branch.
 
 #### log
-<!-- Your defnition here -->
+a record of all the changes you've made to the repository.
 
 #### merge
-<!-- Your defnition here -->
+merges the changes you've made on a branch into the master branch.
 
 #### pull
-<!-- Your defnition here -->
+pull the changes other people have made to your project.  
 
 #### push
-<!-- Your defnition here -->
+tells git where to place the commits.
 
 #### reset
-<!-- Your defnition here -->
+unstages a file
 
 #### rm
-<!-- Your defnition here -->
+stage the files you want to remove and also removes the files.
 
 #### status
-
+git status allows you to check the current state of the project you're working on in the repository.
 
 ## Release 4: Git Workflow
 
