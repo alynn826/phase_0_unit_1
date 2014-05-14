@@ -27,7 +27,7 @@ a record of all the changes you've made to the repository.
 merges the changes you've made on a branch into the master branch.
 
 #### pull
-pull the changes other people have made to your project.  
+pull the changes other people have made to your project. 
 
 #### push
 tells git where to place the commits.
@@ -44,7 +44,22 @@ git status allows you to check the current state of the project you're working o
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+after adding adding a remote repository, do git push-u "remote name" master
+
 - Fetch changes
+1. check current remote with git remote -v
+2. set up a new remote by git remote add "remote name" "URL of repository that you want to fetch change from"
+3. git fetch "remote name"
+4. git branch -va
+5. git branch to make sure you are on  the master branch
+6. git merge "remote name"/master
+7. sync by git commit -m "desc of change"
+
 - Commit locally
+1. do git add "filename" to stage the change
+2. then git commit -m "desc. of changes"
 
 ## Release 5: Reflection
+
+I think it was good to learn how to use git with command lines even though it was certainly very convenient to just
+use the GitHub app to manage your repo. It was interesting to see sort of "behind the scene" how to make and store changes to our repo.  This challenge was fairly straight forward as all you need to do is follow the instructions so there really wasn't a concept that was difficult to grasp. I think now I am fairly comfortable with adding and pushing changes using the command line.
